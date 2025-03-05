@@ -49,7 +49,7 @@ This repository showcases how SQL can be used to analyze real-world sales data, 
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/sales-report-analysis.git
+    https://github.com/Satish-Chandra11/Sql-Project.git
     ```
 2. Open `sales_queries.sql` in your SQL client (MySQL, PostgreSQL, SQLite, etc.).
 3. Modify table and column names if needed to match your database.
