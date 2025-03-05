@@ -22,7 +22,7 @@ This repository showcases how SQL can be used to analyze real-world sales data, 
 | File Name          | Description |
 |--------------------|--------------|
 | `sales_queries.sql` | Contains all SQL queries used for analysis |
-| `sales_data.csv`   | Sample sales data (optional - add if you're uploading your data) |
+| `sales_data.csv`   | Sample sales data  |
 | `README.md`        | This project documentation |
 
 ---
